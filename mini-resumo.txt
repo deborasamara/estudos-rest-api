@@ -1,0 +1,7 @@
+fast api
+- é rápido de colocar uma api no ar, foco na performance
+- documentação automática da sua api  
+- gerenciamento de processos assíncronos
+
+
+
